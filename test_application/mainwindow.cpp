@@ -15,10 +15,10 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_btnAdd_clicked()
 {
-
+    //Open edit form
 }
 
 void MainWindow::on_btnRemove_clicked()
 {
-
+    //Remove selected items
 }
